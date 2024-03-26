@@ -1,0 +1,21 @@
+.list {
+    font-weight: bold;
+    font-family: Copperplate, Monaco, sans-serif;
+}
+
+
+.yellow {
+    background-color: yellow;
+    font-style: italic;
+    color: black;
+}
+
+.list .brown {
+    background-color: brown;
+    color: aqua;
+}
+
+.list .red {
+    background-color: red;
+    color: purple;
+}
